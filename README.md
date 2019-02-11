@@ -1,4 +1,4 @@
-# 声明，源代码来自[jirengu-inc](https://github.com/jirengu-inc/animating-resume)
+声明，源代码来自[jirengu-inc](https://github.com/jirengu-inc/animating-resume)
 
 # 一个会动的简历模板
 
